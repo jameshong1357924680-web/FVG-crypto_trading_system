@@ -14,7 +14,7 @@
 3.  **Backtesting Engine:** 模擬歷史 K 線數據，包含動態部位管理 (Position Sizing) 與風險計算。
 
 ##  Backtest Performance (回測成果)
-* **Win Rate:** 92.75% (於多頭趨勢區間驗證)
+* **Win Rate:** 84.03% (於多頭趨勢區間驗證)
 * **Equity Curve (資金曲線):**
 ![Equity Curve](equity_curve.png)
 
